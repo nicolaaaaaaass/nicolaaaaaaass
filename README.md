@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anthony Daen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolaaaaaaass&label=Profile%20views&color=0e75b6&style=flat" alt="nicolaaaaaaass" /> </p>
-<img src="https://media.tenor.com/lDP4QgUYoDkAAAAi/minecraft.gif" width="270" height="309" alt="Minecraft Sticker - Minecraft Stickers" style="max-width: 525px; background-color: unset;"> </br>
----------          ---------------      -------------------     ---------------------     ------------------------         ------------------------  
-
+<img src="https://media.tenor.com/lDP4QgUYoDkAAAAi/minecraft.gif" width="270" height="309" alt="Minecraft Sticker - Minecraft Stickers" style="max-width: 525px; background-color: unset;"> 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
